@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/XeNONE1100/Catppuccin-Vital/stargazers"><img src="https://img.shields.io/github/stars/XeNONE1100/Catppuccin-Vital?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/XeNONE1100/Catppuccin-Vital/issues"><img src="https://img.shields.io/github/issues/XeNONE1100/Catppuccin-Vital?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/XeNONE1100/Catppuccin-Vital/contributors"><img src="https://img.shields.io/github/XeNONE1100/Catppuccin-Vital/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/XeNONE1100/vital/stargazers"><img src="https://img.shields.io/github/stars/XeNONE1100/vital?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/XeNONE1100/vital/issues"><img src="https://img.shields.io/github/issues/XeNONE1100/vital?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/XeNONE1100/vital/contributors"><img src="https://img.shields.io/github/XeNONE1100/vital/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
