@@ -10,6 +10,12 @@ MANUAL = {
             "Widget Secondary 1": "surface1",
             "Widget Secondary 2": "surface2",
         },
+        "Preset Browser": {
+            "Lighten Screen": "surface0",
+            "Widget Primary 1": "surface1",
+            "Widget Secondary 2": "surface2",
+
+        }
     },
     "Latte": {
         "Keyboard": {"Widget Secondary 2": "subtext1"},
@@ -202,7 +208,7 @@ COLOR_MAP = {
 SKIP_KEYS = {
     "Overlay Screen",
     "Shadow",
-    "Lighten Screen",
+    # "Lighten Screen",
     "Border",
     "Text Editor Border",
     "Text Editor Selection",
